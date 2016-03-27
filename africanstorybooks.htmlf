@@ -10,8 +10,13 @@
 
 <div id="content">
 <div class="indexmodule">
-    <img src="mods/africanstorybooks/af.jpg" alt="African_Storybooks">
-    <h2>African Storybook Project</h2>
+   <a href = "mods/africanstorybooks/index.html"> 
+   <img src="mods/africanstorybooks/af.jpg" alt="African_Storybooks">
+   </a>
+   <a href = "mods/africanstorybooks/index.html"> 
+   <h2>African Storybook Project</h2>
+   </a>
+
     <p>These stories are in the 11 official languages of South Africa.  These enjoyable stories will assist young children as they learn to read.  Because the stories are in a language familiar to the children, as well as a language they are learning, the children will have fun practicing while they learn to love reading.</p>
     <ul class="double">
 
