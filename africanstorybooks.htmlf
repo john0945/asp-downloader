@@ -1,0 +1,105 @@
+ <!DOCTYPE html> 
+ <html> 
+<head>
+    <meta charset="utf-8">
+    <title>African Storybooks</title>
+    <link rel="stylesheet" href="index-module-style.css">
+    <base target="_blank" />
+</head>
+<body>
+
+<div id="content">
+<div class="indexmodule">
+    <img src="mods/africanstorybooks/af.jpg" alt="African_Storybooks">
+    <h2>African Storybook Project</h2>
+    <p>These stories are in the 11 official languages of South Africa.  These enjoyable stories will assist young children as they learn to read.  Because the stories are in a language familiar to the children, as well as a language they are learning, the children will have fun practicing while they learn to love reading.</p>
+    <ul class="double">
+
+<li class="listhead">English</li>
+<li><a href="mods/africanstorybooks/english/First words/" target="content">First words</a>
+<li><a href="mods/africanstorybooks/english/First sentences/" target="content">First sentences</a>
+<li><a href="mods/africanstorybooks/english/First paragraphs/" target="content">First paragraphs</a>
+<li><a href="mods/africanstorybooks/english/Longer paragraphs/" target="content">Longer paragraphs</a>
+<li><a href="mods/africanstorybooks/english/Read aloud/" target="content">Read aloud</a>
+
+<li class="listhead">Afrikaans</li>
+<li><a href="mods/africanstorybooks/afrikaans/First words/" target="content">First words</a>
+<li><a href="mods/africanstorybooks/afrikaans/First sentences/" target="content">First sentences</a>
+<li><a href="mods/africanstorybooks/afrikaans/First paragraphs/" target="content">First paragraphs</a>
+<li><a href="mods/africanstorybooks/afrikaans/Longer paragraphs/" target="content">Longer paragraphs</a>
+<li><a href="mods/africanstorybooks/afrikaans/Read aloud/" target="content">Read aloud</a>
+
+<li class="listhead">isiNdebele</li>
+<li><a href="mods/africanstorybooks/isindebele/First words/" target="content">First words</a>
+<li><a href="mods/africanstorybooks/isindebele/First sentences/" target="content">First sentences</a>
+<li><a href="mods/africanstorybooks/isindebele/First paragraphs/" target="content">First paragraphs</a>
+<li><a href="mods/africanstorybooks/isindebele/Longer paragraphs/" target="content">Longer paragraphs</a>
+<li><a href="mods/africanstorybooks/isindebele/Read aloud/" target="content">Read aloud</a>
+
+<li class="listhead">isiXhosa</li>
+<li><a href="mods/africanstorybooks/isixhosa/First words/" target="content">First words</a>
+<li><a href="mods/africanstorybooks/isixhosa/First sentences/" target="content">First sentences</a>
+<li><a href="mods/africanstorybooks/isixhosa/First paragraphs/" target="content">First paragraphs</a>
+<li><a href="mods/africanstorybooks/isixhosa/Longer paragraphs/" target="content">Longer paragraphs</a>
+<li><a href="mods/africanstorybooks/isixhosa/Read aloud/" target="content">Read aloud</a>
+
+<li class="listhead">isiZulu</li>
+<li><a href="mods/africanstorybooks/isizulu/First words/" target="content">First words</a>
+<li><a href="mods/africanstorybooks/isizulu/First sentences/" target="content">First sentences</a>
+<li><a href="mods/africanstorybooks/isizulu/First paragraphs/" target="content">First paragraphs</a>
+<li><a href="mods/africanstorybooks/isizulu/Longer paragraphs/" target="content">Longer paragraphs</a>
+<li><a href="mods/africanstorybooks/isizulu/Read aloud/" target="content">Read aloud</a>
+
+<li class="listhead">Sepedi</li>
+<li><a href="mods/africanstorybooks/sepedi/First words/" target="content">First words</a>
+<li><a href="mods/africanstorybooks/sepedi/First sentences/" target="content">First sentences</a>
+<li><a href="mods/africanstorybooks/sepedi/First paragraphs/" target="content">First paragraphs</a>
+<li><a href="mods/africanstorybooks/sepedi/Longer paragraphs/" target="content">Longer paragraphs</a>
+<li><a href="mods/africanstorybooks/sepedi/Read aloud/" target="content">Read aloud</a>
+
+<li class="listhead">Sesotho (Lesotho)</li>
+<li><a href="mods/africanstorybooks/sesotho-lesotho/First words/" target="content">First words</a>
+<li><a href="mods/africanstorybooks/sesotho-lesotho/First sentences/" target="content">First sentences</a>
+<li><a href="mods/africanstorybooks/sesotho-lesotho/First paragraphs/" target="content">First paragraphs</a>
+<li><a href="mods/africanstorybooks/sesotho-lesotho/Longer paragraphs/" target="content">Longer paragraphs</a>
+<li><a href="mods/africanstorybooks/sesotho-lesotho/Read aloud/" target="content">Read aloud</a>
+
+<li class="listhead">Sesotho (South Africa)</li>
+<li><a href="mods/africanstorybooks/sesotho-safrica/First words/" target="content">First words</a>
+<li><a href="mods/africanstorybooks/sesotho-safrica/First sentences/" target="content">First sentences</a>
+<li><a href="mods/africanstorybooks/sesotho-safrica/First paragraphs/" target="content">First paragraphs</a>
+<li><a href="mods/africanstorybooks/sesotho-safrica/Longer paragraphs/" target="content">Longer paragraphs</a>
+<li><a href="mods/africanstorybooks/sesotho-safrica/Read aloud/" target="content">Read aloud</a>
+
+<li class="listhead">Setswana</li>
+<li><a href="mods/africanstorybooks/setswana/First words/" target="content">First words</a>
+<li><a href="mods/africanstorybooks/setswana/First sentences/" target="content">First sentences</a>
+<li><a href="mods/africanstorybooks/setswana/First paragraphs/" target="content">First paragraphs</a>
+<li><a href="mods/africanstorybooks/setswana/Longer paragraphs/" target="content">Longer paragraphs</a>
+<li><a href="mods/africanstorybooks/setswana/Read aloud/" target="content">Read aloud</a>
+
+<li class="listhead">Siswati</li>
+<li><a href="mods/africanstorybooks/siswati/First words/" target="content">First words</a>
+<li><a href="mods/africanstorybooks/siswati/First sentences/" target="content">First sentences</a>
+<li><a href="mods/africanstorybooks/siswati/First paragraphs/" target="content">First paragraphs</a>
+<li><a href="mods/africanstorybooks/siswati/Longer paragraphs/" target="content">Longer paragraphs</a>
+<li><a href="mods/africanstorybooks/siswati/Read aloud/" target="content">Read aloud</a>
+
+<li class="listhead">Tshivenda</li>
+<li><a href="mods/africanstorybooks/tshivenda/First words/" target="content">First words</a>
+<li><a href="mods/africanstorybooks/tshivenda/First sentences/" target="content">First sentences</a>
+<li><a href="mods/africanstorybooks/tshivenda/First paragraphs/" target="content">First paragraphs</a>
+<li><a href="mods/africanstorybooks/tshivenda/Longer paragraphs/" target="content">Longer paragraphs</a>
+<li><a href="mods/africanstorybooks/tshivenda/Read aloud/" target="content">Read aloud</a>
+
+<li class="listhead">Xitsonga</li>
+<li><a href="mods/africanstorybooks/xitsonga/First words/" target="content">First words</a>
+<li><a href="mods/africanstorybooks/xitsonga/First sentences/" target="content">First sentences</a>
+<li><a href="mods/africanstorybooks/xitsonga/First paragraphs/" target="content">First paragraphs</a>
+<li><a href="mods/africanstorybooks/xitsonga/Longer paragraphs/" target="content">Longer paragraphs</a>
+<li><a href="mods/africanstorybooks/xitsonga/Read aloud/" target="content">Read aloud</a>
+    </ul>
+</div>
+</div>
+</body>
+</html>
